@@ -1,10 +1,12 @@
+![apple](https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif)
 ## Apple Foundation Program - Simplon, Montreuil
 ---
 #1 Month
 ---
 
 
-1 Month Program to learn basics of switch and the process to think and create an app.
+## 1 Month Program to learn basics of switch and the process to think and create an app.
+
   First week was about the thinking process of the creation of an app wich is going to be the solution to a problem.
   ---
   Second & Third week was about learning the basic structure and components of the langage switch and the app xcode.
